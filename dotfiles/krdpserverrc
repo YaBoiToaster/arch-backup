@@ -1,0 +1,3 @@
+[General]
+Certificate=/home/gunther/.local/share/krdpserver/krdp.crt
+CertificateKey=/home/gunther/.local/share/krdpserver/krdp.key

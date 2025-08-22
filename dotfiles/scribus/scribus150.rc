@@ -1,0 +1,1111 @@
+<SCRIBUSRC VERSION="1.5.0">
+ <UI StickyTools="0" MouseMoveTimeout="150" ShowStartupDialog="1" UseSmallWidgets="0" IconSet="Scribus 1.5.1" UseGrayscaleIcons="0" PaletteFontSize="9" ScrollWheelJump="40" UseDocumentTabs="0" UserPreferredLocale="System" RecentDocumentCount="5" Theme="" ApplicationFontSize="9" ShowSplashOnStartup="1"/>
+ <DocumentSetup SaveCompressed="0" MarginLeft="40.000" AutoSaveDir="" UnitIndex="2" PageSize="Letter" AutoSaveCount="1" MarginRight="40.000" BleedTop="0.000" BleedLeft="0.000" Language="en_US" PageOrientation="0" AutoSave="1" AutoSaveTime="600000" MarginPreset="0" PageWidth="612.000" BleedRight="0.000" MarginTop="40.000" MarginBottom="40.000" AutoSaveLoc="1" PageHeight="792.000" AutoSaveKeep="0" PagePositioning="0" BleedBottom="0.000"/>
+ <Paths Documents="/home/gunther/Documents/" Scripts="" Templates="" Profiles=""/>
+ <Guides MinorGridSpacing="20.000" ShowImages="1" ShowBaselineGrid="0" ShowLayerMarkers="0" GrabRadius="4" MajorGridSpacing="100.000" ShowRulers="1" ShowFrames="1" ObjectToGuideSnapRadius="10.000" BaselineGridOffset="0.000" ShowMargins="1" BaselineGridDistance="14.400" ShowBleed="1" MajorGridColor="#00ff00" ShowControls="0" MarginColor="#0000ff" MinorGridColor="#00ff00" ShowGrid="0" ShowLinks="0" renderStack="2 0 4 1 3" RulerMode="1" ShowGuides="1" GuidesColor="#000080" GridType="0" ShowColumnBorders="1" BaselineGridColor="#c0c0c0"/>
+ <Miscellaneous LoremIpsumUseStandard="0" ShowStylePreview="1" saveEmergencyFile="1" LoremIpsumParagraphs="10"/>
+ <StoryEditor Font="Sans Serif,9,-1,5,50,0,0,0,0,0" SmartTextSelection="0"/>
+ <Display ShowPageShadow="1" DisplayScale="1.98611111" PageColor="#ffffff" FrameAnnotationColor="#0000ff" PageGapVertical="40.000" FrameLinkColor="#ff0000" FrameSelectedColor="#ff0000" PageGapHorizontal="0.000" ScratchLeft="100.000" FrameGroupColor="#008080" ScratchTop="20.000" ShowVerifierWarningsOnCanvas="1" ShowMouseCoordinates="1" ToolTips="1" ScratchColor="#efefef" FrameLockColor="#800000" FrameNormColor="#000000" ScratchBottom="20.000" ShowAutosaveClockOnCanvas="0" ControlCharColor="#800000" PageBorderColor="#ff0000" ScratchRight="100.000" ShowMarginsFilled="0"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Adwaita Mono Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Adwaita Mono Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Adwaita Mono Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Adwaita Mono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Adwaita Sans Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Adwaita Sans Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Cantarell Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Font Awesome 6 Brands Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Font Awesome 6 Free Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Font Awesome 6 Free Solid"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Font Awesome v4 Compatibility Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="FreeMono Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="FreeMono Bold Oblique"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeMono Oblique"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeMono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeSans Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeSans Bold Oblique"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeSans Oblique"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeSans Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeSerif Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeSerif Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeSerif Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="FreeSerif Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Hack Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Hack Bold Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Hack Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Hack Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Mono Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Mono Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Mono Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Mono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Propo Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Propo Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Propo Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Propo Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGL Nerd Font Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Mono Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Mono Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Mono Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Mono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Propo Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Propo Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Propo Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Propo Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGLDZ Nerd Font Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Mono Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Mono Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Mono Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Mono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Propo Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Propo Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Propo Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Propo Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGM Nerd Font Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Mono Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Mono Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Mono Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Mono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Propo Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Propo Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Propo Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Propo Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGMDZ Nerd Font Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Mono Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Mono Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Mono Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Mono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Propo Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Propo Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Propo Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Propo Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGS Nerd Font Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Mono Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Mono Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Mono Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Mono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Propo Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Propo Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Propo Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Propo Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="MesloLGSDZ Nerd Font Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Fangsong KSS Rotated Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Fangsong KSS Vertical Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Kufi Arabic Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Kufi Arabic Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Kufi Arabic Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Kufi Arabic Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Kufi Arabic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Kufi Arabic Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Music Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Naskh Arabic Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Naskh Arabic Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Naskh Arabic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Naskh Arabic UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Naskh Arabic UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Naskh Arabic UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Nastaliq Urdu Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Nastaliq Urdu Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Rashi Hebrew Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Rashi Hebrew Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Rashi Hebrew Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Rashi Hebrew Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Rashi Hebrew Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Rashi Hebrew Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Adlam Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Adlam Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Adlam Unjoined Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Adlam Unjoined Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Anatolian Hieroglyphs Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Arabic UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Armenian Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Armenian Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Armenian Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Armenian Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Armenian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Armenian Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Avestan Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Balinese Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Balinese Medium"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Balinese Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bamum Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bamum Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bamum Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bassa Vah Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bassa Vah Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bassa Vah Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Batak Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bengali UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Bhaiksuki Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Black"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Black Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Bold Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Brahmi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Buginese Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Buhid Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Canadian Aboriginal Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Canadian Aboriginal Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Canadian Aboriginal Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Canadian Aboriginal Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Canadian Aboriginal Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Canadian Aboriginal Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Carian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Caucasian Albanian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Chakma Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cham Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cham Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cham Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cham Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cham Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cham Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cherokee Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cherokee Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cherokee Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cherokee Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cherokee Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cherokee Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Chorasmian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Coptic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cuneiform Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cypriot Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Cypro Minoan Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Deseret Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Devanagari UI Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Duployan Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Duployan Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Egyptian Hieroglyphs Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Elbasan Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Elymaic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ethiopic Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ethiopic Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ethiopic Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ethiopic Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ethiopic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ethiopic Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Georgian Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Georgian Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Georgian Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Georgian Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Georgian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Georgian Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Glagolitic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gothic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Grantha Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gujarati UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gunjala Gondi Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gunjala Gondi Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gunjala Gondi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Gurmukhi UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hanifi Rohingya Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hanifi Rohingya Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hanifi Rohingya Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hanunoo Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hatran Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hebrew Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hebrew Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hebrew Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hebrew Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hebrew Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Hebrew Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Imperial Aramaic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Indic Siyaq Numbers Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Inscriptional Pahlavi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Inscriptional Parthian Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Javanese Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Javanese Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kaithi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kannada UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kawi Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kawi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kayah Li Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kayah Li Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kayah Li Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Kharoshthi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Khmer Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Khmer Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Khmer Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Khmer Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Khmer Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Khmer Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Khojki Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Khudawadi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Looped Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Looped Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Looped Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Looped Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Looped Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Looped Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lao Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lepcha Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Light"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Light Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Limbu Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Linear A Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Linear B Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lisu Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lisu Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lisu Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lycian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Lydian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Mahajani Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Malayalam UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Mandaic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Manichaean Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Marchen Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Masaram Gondi Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Math Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Mayan Numerals Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Medefaidrin Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Medefaidrin Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Medefaidrin Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Medium"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Medium Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Meetei Mayek Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Meetei Mayek Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Meetei Mayek Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Meetei Mayek Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Meetei Mayek Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Meetei Mayek Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Mende Kikakui Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Meroitic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Miao Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Modi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Mongolian Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Mono Black"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Mono Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Mono Light"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Mono Medium"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Mono Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Mono Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Mro Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Multani Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Myanmar Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Myanmar Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Myanmar Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Myanmar Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Myanmar Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Myanmar Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans NKo Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans NKo Unjoined Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans NKo Unjoined Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Nabataean Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Nag Mundari Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Nag Mundari Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Nandinagari Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans New Tai Lue Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans New Tai Lue Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans New Tai Lue Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Newa Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Nushu Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ogham Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ol Chiki Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ol Chiki Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ol Chiki Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Old Hungarian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Old Italic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Old North Arabian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Old Permic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Old Persian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Old Sogdian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Old South Arabian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Old Turkic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Oriya Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Oriya Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Oriya Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Oriya Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Osage Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Osmanya Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Pahawh Hmong Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Palmyrene Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Pau Cin Hau Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans PhagsPa Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Phoenician Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Psalter Pahlavi Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Rejang Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Runic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Samaritan Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Saurashtra Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sharada Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Shavian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Siddham Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans SignWriting Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sinhala UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sogdian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sora Sompeng Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sora Sompeng Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sora Sompeng Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Soyombo Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sundanese Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sundanese Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sundanese Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Sunuwar Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syloti Nagri Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Symbols 2 Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Symbols Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Symbols Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Symbols Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Symbols Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Symbols Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Symbols Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Eastern Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Eastern Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Eastern Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Western Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Western Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Syriac Western Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tagalog Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tagbanwa Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tai Le Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tai Tham Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tai Tham Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tai Tham Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tai Viet Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Takri Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil Supplement Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tamil UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tangsa Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tangsa Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tangsa Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu UI Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu UI Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu UI Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu UI Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu UI Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Telugu UI Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Test Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thaana Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thaana Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thaana Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thaana Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thaana Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thaana Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Looped Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Looped Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Looped Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Looped Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Looped Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Looped Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Thai Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Sans Thin Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh APT Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Adrar Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Agraw Imazighen Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Ahaggar Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Air Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Azawagh Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Ghat Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Hawad Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Rhissa Ixa Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh SIL Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tifinagh Tawellemmet Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Tirhuta Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Ugaritic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Vai Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Vithkuqi Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Vithkuqi Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Vithkuqi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Wancho Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Warang Citi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Yi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Sans Zanabazar Square Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Ahom Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Armenian Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Armenian Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Armenian Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Armenian Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Armenian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Armenian Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Balinese Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Bengali Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Bengali Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Bengali Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Bengali Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Bengali Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Bengali Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Black"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Black Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Bold Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Devanagari Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Devanagari Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Devanagari Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Devanagari Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Devanagari Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Devanagari Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Black"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Black Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Bold"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Bold Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Light"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Light Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Medium"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Medium Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Display Thin Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Dives Akuru Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Dogra Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Ethiopic Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Ethiopic Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Ethiopic Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Ethiopic Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Ethiopic Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Ethiopic Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Georgian Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Georgian Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Georgian Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Georgian Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Georgian Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Georgian Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Grantha Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gujarati Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gujarati Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gujarati Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gujarati Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gujarati Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gujarati Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gurmukhi Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gurmukhi Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gurmukhi Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gurmukhi Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gurmukhi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Gurmukhi Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Hebrew Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Hebrew Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Hebrew Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Hebrew Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Hebrew Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Hebrew Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Kannada Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Kannada Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Kannada Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Kannada Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Kannada Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Kannada Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Khitan Small Script Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Khmer Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Khmer Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Khmer Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Khmer Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Khmer Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Khmer Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Khojki Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Khojki Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Lao Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Lao Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Lao Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Lao Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Lao Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Lao Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Light"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Light Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Makasar Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Malayalam Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Malayalam Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Malayalam Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Malayalam Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Malayalam Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Malayalam Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Medium"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Medium Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Myanmar Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Myanmar Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Myanmar Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Myanmar Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Myanmar Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Myanmar Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif NP Hmong Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif NP Hmong Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif NP Hmong Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Old Uyghur Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Oriya Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Oriya Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Oriya Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Ottoman Siyaq Regular"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Sinhala Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Sinhala Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Sinhala Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Sinhala Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Sinhala Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Sinhala Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Black Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Bold Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Light Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Medium Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tamil Thin Italic"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Tangut Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Telugu Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Telugu Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Telugu Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Telugu Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Telugu Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Telugu Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Test Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Test Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Thai Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Thai Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Thai Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Thai Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Thai Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Thai Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Thin"/>
+ <Font Embed="1" Subset="1" Use="1" Name="Noto Serif Thin Italic"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tibetan Black"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tibetan Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tibetan Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tibetan Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tibetan Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Tibetan Thin"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Toto Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Toto Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Toto Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Vithkuqi Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Vithkuqi Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Vithkuqi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Yezidi Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Yezidi Medium"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Serif Yezidi Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Traditional Nushu Bold"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Traditional Nushu Light"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Traditional Nushu Regular"/>
+ <Font Embed="1" Subset="0" Use="1" Name="Noto Znamenny Musical Notation Regular"/>
+ <Fonts AutomaticSubstitution="1"/>
+ <Typography SuperScriptDistance="33" StrikeThruDistance="-1" SubScriptScaling="66" SmallCapsScaling="75" UnderlineDistance="-1" UnderlineWidth="-1" StrikeThruWidth="-1" SuperScriptScaling="66" AutomaticLineSpacing="100" SubScriptDistance="33"/>
+ <ItemTools TextDistanceRight="0.000" TextStrokeColorShade="100" ImageFillColorShade="100" TextDistanceLeft="0.000" SpiralFactor="1.200" TextDistanceBottom="0.000" ArcStartAngle="30.000" ImageFillColor="None" PolygonUseFactor="0" CalligraphicPenLineColor="Black" FontSize="12" LineEndArrow="0" TextColor="Black" TextStrokeColor="Black" ImageLowResType="1" ImageScaleX="1.000" PolygonFactor="0.500" PolygonRotation="0.000" FirstLineOffset="1" TextLineColor="None" CalligraphicPenLineWidth="1" CalligraphicPenWidth="10" ShapeFillColor="None" TextDistanceTop="0.000" ShapeLineWidth="1.000" CalligraphicPenAngle="0" CalligraphicPenStyle="1" SpiralEndAngle="1080.000" TextColorShade="100" TabFillCharacter="" FontFace="Adwaita Mono Bold" CalligraphicPenFillColor="Black" ImageUseEmbeddedPath="0" TextBackgroundColor="None" ShapeLineColor="Black" TextLineColorShade="100" ShapeLineStyle="1" LineColorShade="100" PolygonCurvature="0.000" CalligraphicPenFillColorShade="100" ArcSweepAngle="300.000" ImageScaleY="1.000" LineStyle="1" LineWidth="1.000" ShapeFillColorShade="100" LineColor="Black" ImageScaleType="1" ImageAspectRatio="1" LineStartArrow="0" ImageStrokeColorShade="100" ImageStrokeColor="None" PolygonInnerRotation="0.000" ShapeLineColorShade="100" TextColumnGap="0.000" CalligraphicPenLineColorShade="100" PolygonOuterCurvature="0.000" PolygonCorners="4" TextBackgroundColorShade="100" SpiralStartAngle="0.000" TextColumnCount="1" TextTabWidth="36.000"/>
+ <OperatorTools MaximumMagnification="32000" DisplayOffsetX="10.000" MagnificationStep="25" RotationConstrainAngle="15.000" MinimumMagnification="1" DisplayOffsetY="10.000"/>
+ <MainWindow YPosition="37" ScreenNumber="0" XPosition="7" Height="1036" Maximized="0" Width="1906"/>
+ <ScrapBook WritePreviews="1" CopyToScrapbook="1" ScrapbookCopies="10" PersistentScrapbook="0"/>
+ <PageSets>
+  <Set FirstPage="0" Rows="1" Columns="1" Name="Single Page"/>
+  <Set FirstPage="1" Rows="1" Columns="2" Name="Facing Pages">
+   <PageNames Name="Left Page"/>
+   <PageNames Name="Right Page"/>
+  </Set>
+  <Set FirstPage="0" Rows="1" Columns="3" Name="3-Fold">
+   <PageNames Name="Left Page"/>
+   <PageNames Name="Middle"/>
+   <PageNames Name="Right Page"/>
+  </Set>
+  <Set FirstPage="0" Rows="1" Columns="4" Name="4-Fold">
+   <PageNames Name="Left Page"/>
+   <PageNames Name="Middle Left"/>
+   <PageNames Name="Middle Right"/>
+   <PageNames Name="Right Page"/>
+  </Set>
+ </PageSets>
+ <PreflightVerifier ShowPagesWithoutErrors="0" CurrentProfile="PDF 1.4" ShowNonPrintingLayerErrors="0"/>
+ <VerifierProfile CheckFontNotEmbedded="1" CheckRasterPDF="1" Name="PDF 1.3" CheckAnnotations="0" CheckOffConflictLayers="0" IgnoreErrors="0" CheckForGIF="1" MaximumResolution="2400.000" MinimumResolution="144.000" CheckAppliedMasterDifferentSide="1" CheckResolution="1" CheckTransparency="1" CheckDeviceColorsAndOutputIntent="0" CheckFontIsOpenType="1" CheckPartFilledImageFrames="0" CheckNotCMYKOrSpot="0" CheckOverflow="1" CheckOrphans="1" CheckEmptyTextFrames="1" CheckPictures="1" CheckGlyphs="1" IgnoreOffLayers="0" AutoCheck="1"/>
+ <VerifierProfile CheckFontNotEmbedded="1" CheckRasterPDF="1" Name="PDF 1.4" CheckAnnotations="0" CheckOffConflictLayers="0" IgnoreErrors="0" CheckForGIF="1" MaximumResolution="2400.000" MinimumResolution="144.000" CheckAppliedMasterDifferentSide="1" CheckResolution="1" CheckTransparency="0" CheckDeviceColorsAndOutputIntent="0" CheckFontIsOpenType="1" CheckPartFilledImageFrames="0" CheckNotCMYKOrSpot="0" CheckOverflow="1" CheckOrphans="1" CheckEmptyTextFrames="1" CheckPictures="1" CheckGlyphs="1" IgnoreOffLayers="0" AutoCheck="1"/>
+ <VerifierProfile CheckFontNotEmbedded="1" CheckRasterPDF="1" Name="PDF 1.5" CheckAnnotations="0" CheckOffConflictLayers="0" IgnoreErrors="0" CheckForGIF="1" MaximumResolution="2400.000" MinimumResolution="144.000" CheckAppliedMasterDifferentSide="1" CheckResolution="1" CheckTransparency="0" CheckDeviceColorsAndOutputIntent="0" CheckFontIsOpenType="1" CheckPartFilledImageFrames="0" CheckNotCMYKOrSpot="0" CheckOverflow="1" CheckOrphans="1" CheckEmptyTextFrames="1" CheckPictures="1" CheckGlyphs="1" IgnoreOffLayers="0" AutoCheck="1"/>
+ <VerifierProfile CheckFontNotEmbedded="1" CheckRasterPDF="1" Name="PDF 1.6" CheckAnnotations="0" CheckOffConflictLayers="0" IgnoreErrors="0" CheckForGIF="1" MaximumResolution="2400.000" MinimumResolution="144.000" CheckAppliedMasterDifferentSide="1" CheckResolution="1" CheckTransparency="0" CheckDeviceColorsAndOutputIntent="0" CheckFontIsOpenType="0" CheckPartFilledImageFrames="0" CheckNotCMYKOrSpot="0" CheckOverflow="1" CheckOrphans="1" CheckEmptyTextFrames="1" CheckPictures="1" CheckGlyphs="1" IgnoreOffLayers="0" AutoCheck="1"/>
+ <VerifierProfile CheckFontNotEmbedded="1" CheckRasterPDF="1" Name="PDF/X-1a" CheckAnnotations="1" CheckOffConflictLayers="0" IgnoreErrors="0" CheckForGIF="1" MaximumResolution="2400.000" MinimumResolution="144.000" CheckAppliedMasterDifferentSide="1" CheckResolution="1" CheckTransparency="1" CheckDeviceColorsAndOutputIntent="0" CheckFontIsOpenType="1" CheckPartFilledImageFrames="0" CheckNotCMYKOrSpot="1" CheckOverflow="1" CheckOrphans="1" CheckEmptyTextFrames="1" CheckPictures="1" CheckGlyphs="1" IgnoreOffLayers="0" AutoCheck="1"/>
+ <VerifierProfile CheckFontNotEmbedded="1" CheckRasterPDF="1" Name="PDF/X-3" CheckAnnotations="1" CheckOffConflictLayers="0" IgnoreErrors="0" CheckForGIF="1" MaximumResolution="2400.000" MinimumResolution="144.000" CheckAppliedMasterDifferentSide="1" CheckResolution="1" CheckTransparency="1" CheckDeviceColorsAndOutputIntent="1" CheckFontIsOpenType="1" CheckPartFilledImageFrames="0" CheckNotCMYKOrSpot="0" CheckOverflow="1" CheckOrphans="1" CheckEmptyTextFrames="1" CheckPictures="1" CheckGlyphs="1" IgnoreOffLayers="0" AutoCheck="1"/>
+ <VerifierProfile CheckFontNotEmbedded="1" CheckRasterPDF="1" Name="PDF/X-4" CheckAnnotations="1" CheckOffConflictLayers="0" IgnoreErrors="0" CheckForGIF="1" MaximumResolution="2400.000" MinimumResolution="144.000" CheckAppliedMasterDifferentSide="1" CheckResolution="1" CheckTransparency="0" CheckDeviceColorsAndOutputIntent="1" CheckFontIsOpenType="0" CheckPartFilledImageFrames="0" CheckNotCMYKOrSpot="0" CheckOverflow="1" CheckOrphans="1" CheckEmptyTextFrames="1" CheckPictures="1" CheckGlyphs="1" IgnoreOffLayers="0" AutoCheck="1"/>
+ <VerifierProfile CheckFontNotEmbedded="0" CheckRasterPDF="1" Name="PostScript" CheckAnnotations="0" CheckOffConflictLayers="0" IgnoreErrors="0" CheckForGIF="1" MaximumResolution="2400.000" MinimumResolution="144.000" CheckAppliedMasterDifferentSide="1" CheckResolution="1" CheckTransparency="1" CheckDeviceColorsAndOutputIntent="0" CheckFontIsOpenType="0" CheckPartFilledImageFrames="0" CheckNotCMYKOrSpot="0" CheckOverflow="1" CheckOrphans="1" CheckEmptyTextFrames="1" CheckPictures="1" CheckGlyphs="1" IgnoreOffLayers="0" AutoCheck="1"/>
+ <ColorManagement GamutCheck="0" DefaultMonitorProfile="sRGB display profile (ICC v2.2)" SoftProofOn="0" DefaultPrinterProfile="ISO Coated v2 300% (basICColor)" DefaultImageRGBProfile="sRGB display profile (ICC v2.2)" DefaultImageCMYKProfile="ISO Coated v2 300% (basICColor)" DefaultIntentColors="1" DefaultIntentImages="0" DefaultSolidColorRGBProfile="sRGB display profile (ICC v2.2)" SoftProofFullOn="0" BlackPoint="1" DefaultSolorColorCMYKProfile="ISO Coated v2 300% (basICColor)" ColorManagementActive="0"/>
+ <Printer File="" ClipToMargins="0" Name="" GCRMode="0" Command=""/>
+ <PrintPreview AntiAliasing="1" Magenta="1" Black="1" Transparency="0" InkThreshold="250" Mode="0" InkCoverage="0" Yellow="1" Cyan="1"/>
+ <PDFOutputPreview AntiAliasing="1" Magenta="1" Black="1" Transparency="0" InkThreshold="250" CMYKMode="0" InkCoverage="0" Yellow="1" Cyan="1"/>
+ <PSOutputPreview AntiAliasing="1" Magenta="1" Black="1" Transparency="0" InkThreshold="250" CMYKMode="0" PSLevel="3" InkCoverage="0" Yellow="1" Cyan="1"/>
+ <ExternalTools LatexEditor="" LatexStartWithEmptyFrames="0" ImageEditor="gimp" Ghostscript="gs" PDFViewer="" Resolution="72" GhostscriptAntiAliasText="1" LatexResolution="72" WebBrowser="" GhostscriptAntiAliasGraphics="1" Uniconvertor="uniconv" LatexForceDpi="1">
+  <LatexConfig command="pdflatex --interaction nonstopmode" file="100_latex.xml"/>
+  <LatexConfig command="gnuplot" file="200_gnuplot.xml"/>
+  <LatexConfig command="lilypond --pdf" file="300_lilypond.xml"/>
+  <LatexConfig command="dot -Tsvg %file -o %file.svg" file="400_dot.xml"/>
+  <LatexConfig command="povray +WL0 -D +W$scribus_width_px$ +H$scribus_height_px$ +Q$scribus_quality$ $scribus_antialias$$scribus_aathres$ +R$scribus_aadepth$ +I%file" file="500_povray.xml"/>
+  <LatexConfig command="xelatex --interaction nonstopmode" file="600_xelatex.xml"/>
+ </ExternalTools>
+ <Hyphenator AutomaticCheck="0" Automatic="1"/>
+ <Recent Name="/home/gunther/Downloads/Pozderec_CV_SLO_3Dtisk.pdf"/>
+ <Recent Name="/home/gunther/Documents/Vanesa-NLB/vanesa-jerebic_reklamacijski-obrazec-popravljen.pdf"/>
+ <Recent Name="/home/gunther/Documents/Vanesa-NLB/vanesa-jerebic_reklamacijski-obrazec.pdf"/>
+ <Shortcut KeySequence="" Action="BarcodeGenerator"/>
+ <Shortcut KeySequence="" Action="ColorWheel"/>
+ <Shortcut KeySequence="Ctrl+Shift+E" Action="ExportAsImage"/>
+ <Shortcut KeySequence="" Action="ExportAsSVG"/>
+ <Shortcut KeySequence="" Action="ExportAsXPS"/>
+ <Shortcut KeySequence="" Action="FlattenPath"/>
+ <Shortcut KeySequence="" Action="FontPreview"/>
+ <Shortcut KeySequence="Shift+F7" Action="HunspellPlugin"/>
+ <Shortcut KeySequence="" Action="LensEffects"/>
+ <Shortcut KeySequence="Ctrl+Alt+N" Action="NewFromDocumentTemplate"/>
+ <Shortcut KeySequence="" Action="OutputPreviewPDF"/>
+ <Shortcut KeySequence="" Action="OutputPreviewPS"/>
+ <Shortcut KeySequence="" Action="PathConnect"/>
+ <Shortcut KeySequence="" Action="PathCutter"/>
+ <Shortcut KeySequence="" Action="PathFinder"/>
+ <Shortcut KeySequence="" Action="PathStroker"/>
+ <Shortcut KeySequence="" Action="Picture Browser"/>
+ <Shortcut KeySequence="" Action="PrintPreview"/>
+ <Shortcut KeySequence="Ctrl+Alt+S" Action="SaveAsDocumentTemplate"/>
+ <Shortcut KeySequence="" Action="ShortWords"/>
+ <Shortcut KeySequence="" Action="SmoothPath"/>
+ <Shortcut KeySequence="" Action="Subdivide"/>
+ <Shortcut KeySequence="" Action="alignBlock"/>
+ <Shortcut KeySequence="" Action="alignCenter"/>
+ <Shortcut KeySequence="" Action="alignForced"/>
+ <Shortcut KeySequence="" Action="alignLeft"/>
+ <Shortcut KeySequence="" Action="alignRight"/>
+ <Shortcut KeySequence="" Action="editActionMode"/>
+ <Shortcut KeySequence="Ctrl+Shift+Del" Action="editClearContents"/>
+ <Shortcut KeySequence="" Action="editColorsAndFills"/>
+ <Shortcut KeySequence="Ctrl+C" Action="editCopy"/>
+ <Shortcut KeySequence="Ctrl+Shift+C" Action="editCopyContents"/>
+ <Shortcut KeySequence="Ctrl+X" Action="editCut"/>
+ <Shortcut KeySequence="Ctrl+Shift+A" Action="editDeselectAll"/>
+ <Shortcut KeySequence="" Action="editEditRenderSource"/>
+ <Shortcut KeySequence="" Action="editEditWithImageEditor"/>
+ <Shortcut KeySequence="" Action="editJavascripts"/>
+ <Shortcut KeySequence="" Action="editMark"/>
+ <Shortcut KeySequence="" Action="editMarks"/>
+ <Shortcut KeySequence="" Action="editMasterPages"/>
+ <Shortcut KeySequence="" Action="editNotesStyles"/>
+ <Shortcut KeySequence="Ctrl+V" Action="editPaste"/>
+ <Shortcut KeySequence="Ctrl+Shift+V" Action="editPasteContents"/>
+ <Shortcut KeySequence="Ctrl+Alt+Shift+V" Action="editPasteContentsAbs"/>
+ <Shortcut KeySequence="" Action="editPasteImageFromClipboard"/>
+ <Shortcut KeySequence="Ctrl+Shift+Z" Action="editRedoAction"/>
+ <Shortcut KeySequence="" Action="editReplaceColors"/>
+ <Shortcut KeySequence="Ctrl+F" Action="editSearchReplace"/>
+ <Shortcut KeySequence="Ctrl+A" Action="editSelectAll"/>
+ <Shortcut KeySequence="Ctrl+Alt+A" Action="editSelectAllOnLayer"/>
+ <Shortcut KeySequence="F4" Action="editStyles"/>
+ <Shortcut KeySequence="" Action="editTruncateContents"/>
+ <Shortcut KeySequence="Ctrl+Z" Action="editUndoAction"/>
+ <Shortcut KeySequence="" Action="extrasDeHyphenateText"/>
+ <Shortcut KeySequence="" Action="extrasGenerateTableOfContents"/>
+ <Shortcut KeySequence="" Action="extrasHyphenateText"/>
+ <Shortcut KeySequence="" Action="extrasManageImages"/>
+ <Shortcut KeySequence="" Action="extrasUpdateDocument"/>
+ <Shortcut KeySequence="Ctrl+W" Action="fileClose"/>
+ <Shortcut KeySequence="" Action="fileCollect"/>
+ <Shortcut KeySequence="" Action="fileDocSetup150"/>
+ <Shortcut KeySequence="" Action="fileExportAsEPS"/>
+ <Shortcut KeySequence="Ctrl+Shift+P" Action="fileExportAsPDF"/>
+ <Shortcut KeySequence="" Action="fileExportText"/>
+ <Shortcut KeySequence="" Action="fileImportAppendText"/>
+ <Shortcut KeySequence="Ctrl+I" Action="fileImportImage"/>
+ <Shortcut KeySequence="Ctrl+I" Action="fileImportText"/>
+ <Shortcut KeySequence="" Action="fileImportText2"/>
+ <Shortcut KeySequence="" Action="fileImportVector"/>
+ <Shortcut KeySequence="Ctrl+N" Action="fileNew"/>
+ <Shortcut KeySequence="Ctrl+Alt+N" Action="fileNewFromTemplate"/>
+ <Shortcut KeySequence="Ctrl+O" Action="fileOpen"/>
+ <Shortcut KeySequence="" Action="filePreferences150"/>
+ <Shortcut KeySequence="Ctrl+P" Action="filePrint"/>
+ <Shortcut KeySequence="Ctrl+Q" Action="fileQuit"/>
+ <Shortcut KeySequence="" Action="fileRevert"/>
+ <Shortcut KeySequence="Ctrl+S" Action="fileSave"/>
+ <Shortcut KeySequence="Ctrl+Shift+S" Action="fileSaveAs"/>
+ <Shortcut KeySequence="" Action="fontSize10"/>
+ <Shortcut KeySequence="" Action="fontSize11"/>
+ <Shortcut KeySequence="" Action="fontSize12"/>
+ <Shortcut KeySequence="" Action="fontSize14"/>
+ <Shortcut KeySequence="" Action="fontSize18"/>
+ <Shortcut KeySequence="" Action="fontSize24"/>
+ <Shortcut KeySequence="" Action="fontSize36"/>
+ <Shortcut KeySequence="" Action="fontSize48"/>
+ <Shortcut KeySequence="" Action="fontSize60"/>
+ <Shortcut KeySequence="" Action="fontSize7"/>
+ <Shortcut KeySequence="" Action="fontSize72"/>
+ <Shortcut KeySequence="" Action="fontSize9"/>
+ <Shortcut KeySequence="" Action="fontSizeOther"/>
+ <Shortcut KeySequence="" Action="helpAboutPlugins"/>
+ <Shortcut KeySequence="" Action="helpAboutQt"/>
+ <Shortcut KeySequence="" Action="helpAboutScribus"/>
+ <Shortcut KeySequence="Ctrl+/" Action="helpActionSearch"/>
+ <Shortcut KeySequence="" Action="helpChat"/>
+ <Shortcut KeySequence="" Action="helpCheckUpdates"/>
+ <Shortcut KeySequence="F1" Action="helpManual"/>
+ <Shortcut KeySequence="" Action="helpOnlineDocs"/>
+ <Shortcut KeySequence="" Action="helpOnlineTutorial1"/>
+ <Shortcut KeySequence="" Action="helpOnlineWWW"/>
+ <Shortcut KeySequence="" Action="helpOnlineWiki"/>
+ <Shortcut KeySequence="" Action="helpTooltips"/>
+ <Shortcut KeySequence="" Action="insertFrame"/>
+ <Shortcut KeySequence="" Action="insertGlyph"/>
+ <Shortcut KeySequence="" Action="insertMark2Mark"/>
+ <Shortcut KeySequence="" Action="insertMarkAnchor"/>
+ <Shortcut KeySequence="" Action="insertMarkItem"/>
+ <Shortcut KeySequence="" Action="insertMarkNote"/>
+ <Shortcut KeySequence="" Action="insertMarkVariableText"/>
+ <Shortcut KeySequence="" Action="insertSampleText"/>
+ <Shortcut KeySequence="" Action="itemAdjustFrameHeightToText"/>
+ <Shortcut KeySequence="" Action="itemAdjustFrameToImage"/>
+ <Shortcut KeySequence="" Action="itemAdjustImageToFrame"/>
+ <Shortcut KeySequence="" Action="itemAttachTextToPath"/>
+ <Shortcut KeySequence="" Action="itemAttributes"/>
+ <Shortcut KeySequence="" Action="itemCombinePolygons"/>
+ <Shortcut KeySequence="" Action="itemConvertToBezierCurve"/>
+ <Shortcut KeySequence="" Action="itemConvertToImageFrame"/>
+ <Shortcut KeySequence="" Action="itemConvertToOutlines"/>
+ <Shortcut KeySequence="" Action="itemConvertToPolygon"/>
+ <Shortcut KeySequence="" Action="itemConvertToSymbolFrame"/>
+ <Shortcut KeySequence="" Action="itemConvertToTextFrame"/>
+ <Shortcut KeySequence="Del" Action="itemDelete"/>
+ <Shortcut KeySequence="" Action="itemDetachTextFromPath"/>
+ <Shortcut KeySequence="Ctrl+D" Action="itemDuplicate"/>
+ <Shortcut KeySequence="" Action="itemEditWeld"/>
+ <Shortcut KeySequence="" Action="itemExtendedImageProperties"/>
+ <Shortcut KeySequence="" Action="itemFlipH"/>
+ <Shortcut KeySequence="" Action="itemFlipV"/>
+ <Shortcut KeySequence="Ctrl+G" Action="itemGroup"/>
+ <Shortcut KeySequence="" Action="itemGroupAdjust"/>
+ <Shortcut KeySequence="" Action="itemImageInfo"/>
+ <Shortcut KeySequence="" Action="itemImageIsVisible"/>
+ <Shortcut KeySequence="Ctrl+L" Action="itemLock"/>
+ <Shortcut KeySequence="Ctrl+Shift+L" Action="itemLockSize"/>
+ <Shortcut KeySequence="Ctrl+End" Action="itemLower"/>
+ <Shortcut KeySequence="End" Action="itemLowerToBottom"/>
+ <Shortcut KeySequence="Ctrl+Shift+D" Action="itemMulDuplicate"/>
+ <Shortcut KeySequence="" Action="itemPDFAnnotationProps"/>
+ <Shortcut KeySequence="" Action="itemPDFFieldProps"/>
+ <Shortcut KeySequence="" Action="itemPDFIsAnnotation"/>
+ <Shortcut KeySequence="" Action="itemPDFIsBookmark"/>
+ <Shortcut KeySequence="" Action="itemPreviewFull"/>
+ <Shortcut KeySequence="" Action="itemPreviewLow"/>
+ <Shortcut KeySequence="" Action="itemPreviewNormal"/>
+ <Shortcut KeySequence="" Action="itemPrintingEnabled"/>
+ <Shortcut KeySequence="Ctrl+Home" Action="itemRaise"/>
+ <Shortcut KeySequence="Home" Action="itemRaiseToTop"/>
+ <Shortcut KeySequence="" Action="itemSendToInline"/>
+ <Shortcut KeySequence="" Action="itemSendToPattern"/>
+ <Shortcut KeySequence="" Action="itemShapeEdit"/>
+ <Shortcut KeySequence="" Action="itemSplitPolygons"/>
+ <Shortcut KeySequence="" Action="itemToggleInlineImage"/>
+ <Shortcut KeySequence="" Action="itemTransform"/>
+ <Shortcut KeySequence="Ctrl+Shift+G" Action="itemUngroup"/>
+ <Shortcut KeySequence="" Action="itemUpdateImage"/>
+ <Shortcut KeySequence="" Action="itemUpdateMarks"/>
+ <Shortcut KeySequence="" Action="itemWeld"/>
+ <Shortcut KeySequence="" Action="itemsUnWeld"/>
+ <Shortcut KeySequence="" Action="pageApplyMasterPage"/>
+ <Shortcut KeySequence="" Action="pageCopy"/>
+ <Shortcut KeySequence="" Action="pageCopyToMasterPage"/>
+ <Shortcut KeySequence="" Action="pageDelete"/>
+ <Shortcut KeySequence="" Action="pageImport"/>
+ <Shortcut KeySequence="" Action="pageInsert"/>
+ <Shortcut KeySequence="" Action="pageManageGuides"/>
+ <Shortcut KeySequence="" Action="pageManageProperties"/>
+ <Shortcut KeySequence="" Action="pageMove"/>
+ <Shortcut KeySequence="" Action="showMouseCoordinates"/>
+ <Shortcut KeySequence="F11" Action="specialToggleAllGuides"/>
+ <Shortcut KeySequence="F12" Action="specialToggleAllPalettes"/>
+ <Shortcut KeySequence="Ctrl+Shift+U" Action="specialUnicodeSequenceBegin"/>
+ <Shortcut KeySequence="" Action="stickyTools"/>
+ <Shortcut KeySequence="Ctrl+E" Action="styleImageEffects"/>
+ <Shortcut KeySequence="" Action="styleTabulators"/>
+ <Shortcut KeySequence="" Action="tableAdjustFrameToTable"/>
+ <Shortcut KeySequence="" Action="tableAdjustTableToFrame"/>
+ <Shortcut KeySequence="" Action="tableDeleteColumns"/>
+ <Shortcut KeySequence="" Action="tableDeleteRows"/>
+ <Shortcut KeySequence="" Action="tableDistributeColumnsEvenly"/>
+ <Shortcut KeySequence="" Action="tableDistributeRowsEvenly"/>
+ <Shortcut KeySequence="" Action="tableInsertColumns"/>
+ <Shortcut KeySequence="" Action="tableInsertRows"/>
+ <Shortcut KeySequence="" Action="tableMergeCells"/>
+ <Shortcut KeySequence="" Action="tableSetColumnWidths"/>
+ <Shortcut KeySequence="" Action="tableSetRowHeights"/>
+ <Shortcut KeySequence="" Action="tableSplitCells"/>
+ <Shortcut KeySequence="" Action="toolsActionHistory"/>
+ <Shortcut KeySequence="" Action="toolsAlignDistribute"/>
+ <Shortcut KeySequence="" Action="toolsBookmarks"/>
+ <Shortcut KeySequence="F3" Action="toolsContent"/>
+ <Shortcut KeySequence="" Action="toolsCopyProperties"/>
+ <Shortcut KeySequence="" Action="toolsDownloads"/>
+ <Shortcut KeySequence="E" Action="toolsEditContents"/>
+ <Shortcut KeySequence="Ctrl+T" Action="toolsEditWithStoryEditor"/>
+ <Shortcut KeySequence="Y" Action="toolsEyeDropper"/>
+ <Shortcut KeySequence="" Action="toolsInline"/>
+ <Shortcut KeySequence="" Action="toolsInsertArc"/>
+ <Shortcut KeySequence="B" Action="toolsInsertBezier"/>
+ <Shortcut KeySequence="" Action="toolsInsertCalligraphicLine"/>
+ <Shortcut KeySequence="F" Action="toolsInsertFreehandLine"/>
+ <Shortcut KeySequence="I" Action="toolsInsertImageFrame"/>
+ <Shortcut KeySequence="L" Action="toolsInsertLine"/>
+ <Shortcut KeySequence="P" Action="toolsInsertPolygon"/>
+ <Shortcut KeySequence="D" Action="toolsInsertRenderFrame"/>
+ <Shortcut KeySequence="S" Action="toolsInsertShape"/>
+ <Shortcut KeySequence="" Action="toolsInsertSpiral"/>
+ <Shortcut KeySequence="A" Action="toolsInsertTable"/>
+ <Shortcut KeySequence="T" Action="toolsInsertTextFrame"/>
+ <Shortcut KeySequence="F6" Action="toolsLayers"/>
+ <Shortcut KeySequence="N" Action="toolsLinkTextFrame"/>
+ <Shortcut KeySequence="" Action="toolsMeasurements"/>
+ <Shortcut KeySequence="" Action="toolsOutline"/>
+ <Shortcut KeySequence="" Action="toolsPDFAnnot3D"/>
+ <Shortcut KeySequence="" Action="toolsPDFAnnotLink"/>
+ <Shortcut KeySequence="" Action="toolsPDFAnnotText"/>
+ <Shortcut KeySequence="" Action="toolsPDFCheckBox"/>
+ <Shortcut KeySequence="" Action="toolsPDFComboBox"/>
+ <Shortcut KeySequence="" Action="toolsPDFListBox"/>
+ <Shortcut KeySequence="" Action="toolsPDFPushButton"/>
+ <Shortcut KeySequence="" Action="toolsPDFRadioButton"/>
+ <Shortcut KeySequence="" Action="toolsPDFTextField"/>
+ <Shortcut KeySequence="" Action="toolsPages"/>
+ <Shortcut KeySequence="" Action="toolsPreflightVerifier"/>
+ <Shortcut KeySequence="F2" Action="toolsProperties"/>
+ <Shortcut KeySequence="" Action="toolsResources"/>
+ <Shortcut KeySequence="R" Action="toolsRotate"/>
+ <Shortcut KeySequence="" Action="toolsScrapbook"/>
+ <Shortcut KeySequence="C" Action="toolsSelect"/>
+ <Shortcut KeySequence="" Action="toolsSymbols"/>
+ <Shortcut KeySequence="" Action="toolsToolbarPDF"/>
+ <Shortcut KeySequence="" Action="toolsToolbarTools"/>
+ <Shortcut KeySequence="" Action="toolsToolbarView"/>
+ <Shortcut KeySequence="U" Action="toolsUnlinkTextFrame"/>
+ <Shortcut KeySequence="" Action="toolsUnlinkTextFrameAndCutText"/>
+ <Shortcut KeySequence="Z" Action="toolsZoom"/>
+ <Shortcut KeySequence="Ctrl++" Action="toolsZoomIn"/>
+ <Shortcut KeySequence="Ctrl+-" Action="toolsZoomOut"/>
+ <Shortcut KeySequence="" Action="typeEffectAllCaps"/>
+ <Shortcut KeySequence="" Action="typeEffectNormal"/>
+ <Shortcut KeySequence="" Action="typeEffectOutline"/>
+ <Shortcut KeySequence="" Action="typeEffectShadow"/>
+ <Shortcut KeySequence="" Action="typeEffectSmallCaps"/>
+ <Shortcut KeySequence="" Action="typeEffectStrikeThrough"/>
+ <Shortcut KeySequence="" Action="typeEffectSubscript"/>
+ <Shortcut KeySequence="" Action="typeEffectSuperscript"/>
+ <Shortcut KeySequence="" Action="typeEffectUnderline"/>
+ <Shortcut KeySequence="" Action="typeEffectUnderlineWords"/>
+ <Shortcut KeySequence="" Action="unicodeBullet"/>
+ <Shortcut KeySequence="Ctrl+Shift+Return" Action="unicodeColumnBreak"/>
+ <Shortcut KeySequence="" Action="unicodeCopyRight"/>
+ <Shortcut KeySequence="" Action="unicodeDashEm"/>
+ <Shortcut KeySequence="" Action="unicodeDashEn"/>
+ <Shortcut KeySequence="" Action="unicodeDashFigure"/>
+ <Shortcut KeySequence="" Action="unicodeDashQuotation"/>
+ <Shortcut KeySequence="Ctrl+Return" Action="unicodeFrameBreak"/>
+ <Shortcut KeySequence="" Action="unicodeLigature_ff"/>
+ <Shortcut KeySequence="" Action="unicodeLigature_ffi"/>
+ <Shortcut KeySequence="" Action="unicodeLigature_ffl"/>
+ <Shortcut KeySequence="" Action="unicodeLigature_fi"/>
+ <Shortcut KeySequence="" Action="unicodeLigature_fl"/>
+ <Shortcut KeySequence="" Action="unicodeLigature_ft"/>
+ <Shortcut KeySequence="" Action="unicodeLigature_st"/>
+ <Shortcut KeySequence="" Action="unicodeMidpoint"/>
+ <Shortcut KeySequence="Ctrl+Alt+Space" Action="unicodeNarrowNoBreakSpace"/>
+ <Shortcut KeySequence="Shift+Return" Action="unicodeNewLine"/>
+ <Shortcut KeySequence="Ctrl+Alt+-" Action="unicodeNonBreakingHyphen"/>
+ <Shortcut KeySequence="Ctrl+Space" Action="unicodeNonBreakingSpace"/>
+ <Shortcut KeySequence="" Action="unicodePageCount"/>
+ <Shortcut KeySequence="Ctrl+Alt+Shift+P" Action="unicodePageNumber"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteApostrophe"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteCJKDoubleLeft"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteCJKDoubleRight"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteCJKSingleLeft"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteCJKSingleRight"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteDoubleLeft"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteDoubleLeftGuillemet"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteDoubleReversed"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteDoubleRight"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteDoubleRightGuillemet"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteLowDoubleComma"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteLowSingleComma"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteSingleLeft"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteSingleLeftGuillemet"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteSingleReversed"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteSingleRight"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteSingleRightGuillemet"/>
+ <Shortcut KeySequence="" Action="unicodeQuoteStraight"/>
+ <Shortcut KeySequence="" Action="unicodeRegdTM"/>
+ <Shortcut KeySequence="Ctrl+Shift+-" Action="unicodeSoftHyphen"/>
+ <Shortcut KeySequence="" Action="unicodeSolidus"/>
+ <Shortcut KeySequence="" Action="unicodeSpaceEM"/>
+ <Shortcut KeySequence="" Action="unicodeSpaceEN"/>
+ <Shortcut KeySequence="" Action="unicodeSpaceHair"/>
+ <Shortcut KeySequence="" Action="unicodeSpaceMid"/>
+ <Shortcut KeySequence="" Action="unicodeSpaceThick"/>
+ <Shortcut KeySequence="" Action="unicodeSpaceThin"/>
+ <Shortcut KeySequence="" Action="unicodeTM"/>
+ <Shortcut KeySequence="" Action="unicodeZWJ"/>
+ <Shortcut KeySequence="" Action="unicodeZWNJ"/>
+ <Shortcut KeySequence="" Action="unicodeZerowidthNonBreakingSpace"/>
+ <Shortcut KeySequence="" Action="unicodeZerowidthSpace"/>
+ <Shortcut KeySequence="" Action="viewEditInPreview"/>
+ <Shortcut KeySequence="Ctrl+1" Action="viewFit100"/>
+ <Shortcut KeySequence="" Action="viewFit200"/>
+ <Shortcut KeySequence="" Action="viewFit400"/>
+ <Shortcut KeySequence="" Action="viewFit50"/>
+ <Shortcut KeySequence="" Action="viewFit75"/>
+ <Shortcut KeySequence="Ctrl+0" Action="viewFitInWindow"/>
+ <Shortcut KeySequence="" Action="viewFitWidth"/>
+ <Shortcut KeySequence="Ctrl+Alt+P" Action="viewPreviewMode"/>
+ <Shortcut KeySequence="" Action="viewRulerMode"/>
+ <Shortcut KeySequence="" Action="viewShowBaseline"/>
+ <Shortcut KeySequence="" Action="viewShowBleeds"/>
+ <Shortcut KeySequence="" Action="viewShowColumnBorders"/>
+ <Shortcut KeySequence="Menu" Action="viewShowContextMenu"/>
+ <Shortcut KeySequence="" Action="viewShowFrames"/>
+ <Shortcut KeySequence="" Action="viewShowGrid"/>
+ <Shortcut KeySequence="" Action="viewShowGuides"/>
+ <Shortcut KeySequence="" Action="viewShowImages"/>
+ <Shortcut KeySequence="" Action="viewShowLayerMarkers"/>
+ <Shortcut KeySequence="" Action="viewShowMargins"/>
+ <Shortcut KeySequence="Ctrl+Shift+R" Action="viewShowRulers"/>
+ <Shortcut KeySequence="" Action="viewShowTextChain"/>
+ <Shortcut KeySequence="" Action="viewShowTextControls"/>
+ <Shortcut KeySequence="" Action="viewSnapToElements"/>
+ <Shortcut KeySequence="" Action="viewSnapToGrid"/>
+ <Shortcut KeySequence="" Action="viewSnapToGuides"/>
+ <Shortcut KeySequence="" Action="viewToggleCM"/>
+ <Shortcut KeySequence="" Action="viewToggleCMS"/>
+ <Shortcut KeySequence="" Action="windowsCascade"/>
+ <Shortcut KeySequence="" Action="windowsTile"/>
+ <DefaultColorSet Name="/usr/share/scribus/swatches/Scribus Basic"/>
+ <PDF DoMultiFile="0" CropMarks="0" DocInfoMarks="0" InfoString="" UseLpi="0" Quality="0" BleedRight="0.000" DisplayFullscreen="0" Binding="0" hideToolBar="0" Permissions="-4" BleedLeft="0.000" UseSpotColors="1" UseDocBleeds="1" Thumbnails="0" RotateDeg="0" ColorMarks="0" Intent2="0" DoClip="0" OpenAction="" Compress="1" UseProfiles="0" MarkLength="20" Grayscale="0" BleedTop="0.000" Resolution="300" PassUser="" MirrorPagesVertical="0" CompressionMethod="0" BleedBottom="0.000" FontEmbedding="0" Bookmarks="0" Intent="0" Articles="0" PresentMode="0" UseLayers="0" DisplayBookmarks="0" PassOwner="" DisplayLayers="0" fitWindow="0" MarkOffset="0" ImageProfile="" EmbedPDF="0" UseProfiles2="0" PageLayout="0" MirrorPagesHorizontal="0" RGBMode="1" DisplayThumbs="0" openAfterExport="0" RegistrationMarks="0" hideMenuBar="0" Version="14" PicRes="300" PrintProfile="" SolidProfile="" BleedMarks="0" RecalcPic="0" ImagePr="0" Encrypt="0"/>
+ <DefaultItemAttributes/>
+ <TablesOfContents/>
+ <ImageCache MaximumCacheEntries="1000" CompressionLevel="1" MaximumCacheSizeMiB="1000" Enabled="0"/>
+ <ActivePageSizes Names="A3,A4,A5,A6,Letter"/>
+ <ExperimentalFeatures NotesEnabled="0"/>
+</SCRIBUSRC>

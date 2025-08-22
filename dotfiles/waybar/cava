@@ -1,0 +1,4 @@
+#!/bin/bash
+
+bars=$(cava | head -n 1)
+echo "{\"text\": \"$bars\", \"tooltip\": \"CAVA Visualizer\"}"

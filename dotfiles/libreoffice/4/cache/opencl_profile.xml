@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+ <version>LibreOffice v1</version>
+ <device>
+  <type>opencl</type>
+  <name>NVIDIA GeForce GTX 960M</name>
+  <driver>575.64.03</driver>
+  <time>87546</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>native</type>
+  <time>3039744</time>
+  <errors>false</errors>
+ </device>
+</profile>

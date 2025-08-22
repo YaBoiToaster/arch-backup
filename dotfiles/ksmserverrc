@@ -1,0 +1,10 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10137d6e0d7000175588667200000009410002
+count=1
+program1=/usr/lib/pentablet/PenTablet
+restartCommand1=/usr/lib/pentablet/PenTablet,-session,10137d6e0d7000175588667200000009410002_1755879500_260804
+restartStyleHint1=0
+userId1=gunther
